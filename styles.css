@@ -21,7 +21,7 @@ body {
 }
 
 .container-main {
-    margin-top: 10%;
+    margin-top: 50px;
 }
 
 #noButton {
@@ -41,7 +41,7 @@ body {
     font-weight: bold;
     color: #FFB6C1;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 0px;
 }
 
@@ -57,10 +57,11 @@ body {
 .btn {
     background-color: #FFB6C1;
     color: white;
-    padding: 20px 40px;
+    padding: 15px 32px;
     text-align: center;
     display: inline-block;
-    font-size: 20px;
+    font-size: 16px;
+    margin: 4px 2px;
     cursor: pointer;
     border: none;
     border-radius: 12px;
@@ -71,7 +72,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
 }
 
 .brightness {
